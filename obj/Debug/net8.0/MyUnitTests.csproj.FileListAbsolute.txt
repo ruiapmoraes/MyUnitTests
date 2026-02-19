@@ -71,3 +71,4 @@ D:\Studies_Local\MyUnitTests\obj\Debug\net8.0\refint\MyUnitTests.dll
 D:\Studies_Local\MyUnitTests\obj\Debug\net8.0\MyUnitTests.pdb
 D:\Studies_Local\MyUnitTests\obj\Debug\net8.0\MyUnitTests.genruntimeconfig.cache
 D:\Studies_Local\MyUnitTests\obj\Debug\net8.0\ref\MyUnitTests.dll
+D:\Studies_Local\MyUnitTests\obj\Debug\net8.0\MyUnitTests.sourcelink.json
